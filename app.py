@@ -6,6 +6,6 @@ st.markdown("# Chinese database for Tomi")
 
 import pandas as pd
 
-password = os.environ["TOMI_PASSWORD"]	
+#password = os.environ["TOMI_PASSWORD"]	
 
-st.write(password)	
+#st.write(password)	
